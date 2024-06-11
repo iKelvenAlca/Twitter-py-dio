@@ -1,8 +1,9 @@
 [tool.poetry]
 name = "mongo-test"
-version = "0.1.0"
+version = "0.1.5"
 description = ""
 authors = ["Guilherme Carvalho <guilherme.carvalho-ext@viavarejo.com.br>"]
+["Kelven Alcantara <kelvenalca@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
